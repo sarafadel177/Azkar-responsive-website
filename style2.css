@@ -1,0 +1,100 @@
+body{
+    background-color:rgb(232, 207, 160); 
+}
+:root
+{
+    font-size:18px;
+}
+
+    .row2{
+       
+        width:400px;
+        height: 350px;
+    
+        top:60px;
+        
+        
+       
+    }
+
+    
+    .first{
+        margin: auto;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .row1{
+        display: grid;
+        grid-template-columns: repeat(2,20%);
+        justify-content: space-evenly;
+        text-align: center;
+
+    }
+    .col11{
+        width:250px;
+      font-size: 2rem;
+    }
+ li{
+   list-style: none;
+ }
+ ul{
+    line-height: 100px;
+ }
+ button{
+    width:100px;
+    height: 30px;
+    padding: 5px;
+ }
+ .yes{
+    background-color: rgb(69, 210, 69);
+ }
+ .No{
+    background-color: red;
+ }
+ table{
+    width:80%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(188, 162, 106);
+    border: 1px solid white;
+
+ }
+ td{
+    border: 1px,white;
+ }
+
+ .cont{
+   text-align: center;
+ }
+ .oo{
+   line-height: 70px;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   padding: 80px;
+   font-size: 1.5rem;
+ }
+ .surah{
+   text-decoration: none;
+   color:rgb(51, 34, 7)
+ }
+ table{
+   text-align: center;
+
+ }
+ .num{
+   text-align: center;
+ }
+tr{
+   border:solid 1px;
+}
+.we{
+   text-align: center;
+}
+.content {
+   display: none;
+   padding: 10px;
+   margin-top: 10px;
+   background-color: rgb(232, 207, 160);
+   border-radius: 10px;
+}
